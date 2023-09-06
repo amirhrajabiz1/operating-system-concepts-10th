@@ -1,0 +1,10 @@
+1:  
+2:  ls -tlrh
+3:  exit
+4: 
+5: 
+6: ls -tlrh
+7: ls -tlrh > file
+8: history
+9: clear
+10: exit
